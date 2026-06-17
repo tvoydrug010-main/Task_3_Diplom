@@ -1,0 +1,21 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Allure
+allure-results/
+.allure/
+
+# OS
+.DS_Store
+Thumbs.db
+
+allure-report/  
+ 
